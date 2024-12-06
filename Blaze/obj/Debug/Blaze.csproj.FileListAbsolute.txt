@@ -1,0 +1,10 @@
+C:\Users\mkaan\Programming\c#\dotnetProjects\Blaze\Blaze\bin\Debug\Blaze.exe.config
+C:\Users\mkaan\Programming\c#\dotnetProjects\Blaze\Blaze\bin\Debug\Blaze.exe
+C:\Users\mkaan\Programming\c#\dotnetProjects\Blaze\Blaze\bin\Debug\Blaze.pdb
+C:\Users\mkaan\Programming\c#\dotnetProjects\Blaze\Blaze\obj\Debug\Blaze.csproj.AssemblyReference.cache
+C:\Users\mkaan\Programming\c#\dotnetProjects\Blaze\Blaze\obj\Debug\Blaze.Form1.resources
+C:\Users\mkaan\Programming\c#\dotnetProjects\Blaze\Blaze\obj\Debug\Blaze.Properties.Resources.resources
+C:\Users\mkaan\Programming\c#\dotnetProjects\Blaze\Blaze\obj\Debug\Blaze.csproj.GenerateResource.cache
+C:\Users\mkaan\Programming\c#\dotnetProjects\Blaze\Blaze\obj\Debug\Blaze.csproj.CoreCompileInputs.cache
+C:\Users\mkaan\Programming\c#\dotnetProjects\Blaze\Blaze\obj\Debug\Blaze.exe
+C:\Users\mkaan\Programming\c#\dotnetProjects\Blaze\Blaze\obj\Debug\Blaze.pdb
